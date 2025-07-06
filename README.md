@@ -246,8 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Exploring the mysteries of the ocean, one simulation at a time*
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/maresim-tidalflow?style=social)](https://github.com/your-username/maresim-tidalflow)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/maresim-tidalflow?style=social)](https://github.com/your-username/maresim-tidalflow)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/maresim-tidalflow)](https://github.com/your-username/maresim-tidalflow/issues)
-
 </div> 
